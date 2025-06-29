@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shruti Parulekar!
 
 🔍 **About Me**
-I am a passionate Data Analyst with over 3 years of work experience and a strong foundation in Business Analytics, bringing a wealth of experience in data extraction, transformation, and visualization. I have a proven track record of leveraging data to drive business insights, enhance decision-making, and improve operational efficiency. My expertise spans across various industries, including health, education, and digital marketing.
+I am a passionate Data Analyst with over 5 years of work experience and a strong foundation in Business Analytics, bringing a wealth of experience in data extraction, transformation, and visualization. I have a proven track record of leveraging data to drive business insights, enhance decision-making, and improve operational efficiency. My expertise spans across various industries, including health, education, and digital marketing.
 
 💡 **What I Do**
 - **Data Analysis**: Skilled in Python, SQL, and Power BI for comprehensive data analysis and visualization.
