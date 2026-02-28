@@ -1,23 +1,25 @@
 # 👋 Hi, I'm Shruti Parulekar!
 
 🔍 **About Me**
-I am a passionate Data Analyst with over 5 years of work experience and a strong foundation in Business Analytics, bringing a wealth of experience in data extraction, transformation, and visualization. I have a proven track record of leveraging data to drive business insights, enhance decision-making, and improve operational efficiency. My expertise spans across various industries, including health, education, and digital marketing.
+I am an Applied Generative AI Engineer with a strong foundation in Full Stack Development and Data Analytics. With 5+ years of experience across backend systems, analytics, and cloud-based data solutions, I have evolved from building web applications and dashboards to designing intelligent AI systems that solve real business problems. My background in software development and analytics allows me to bridge the gap between scalable engineering and data-driven strategy.
 
 💡 **What I Do**
-- **Data Analysis**: Skilled in Python, SQL, and Power BI for comprehensive data analysis and visualization.
-- **Business Intelligence**: Expertise in developing interactive dashboards using Tableau, Google Looker Studio, and Azure tools.
-- **Data Engineering**: Experience with ETL processes, data modeling, and pipeline automation using cloud platforms like AWS and Azure.
-- **Predictive Analytics**: Implementing predictive models and performing root cause analysis to drive business strategy.
+- **Generative AI Engineering**: Prototype end-to-end LLM-powered systems using AWS Bedrock, RAG architectures, vector databases (Milvus), and agentic workflows with LangChain/LangGraph.
+- **AI System Design**: Architect retrieval pipelines, embedding workflows, prompt optimization strategies, and scalable deployment environments using Docker and Kubernetes.
+- **Backend & API Development**: Build RESTful APIs and backend services using Python (FastAPI/Flask) to support intelligent applications.
+- **Data & Business Analytics:**: Leverage Python, SQL, and BI tools to extract insights, conduct experimentation (A/B testing), and support strategic decision-making.
 
 📈 **Key Projects**
+- **RAG-Based AI Chatbot System** : Architected and deployed a production-grade retrieval-augmented generation system using AWS Bedrock, vector embeddings, and Milvus, containerized with Docker and orchestrated via Kubernetes.
 - **AWS-Based COVID-19 Data Pipeline and Analytics Project**: Architected a data pipeline and star schema for optimized query performance, and automated ETL processes using AWS Glue and Redshift.
 - **Bing News Data Analytics Project using Microsoft Fabric**: Developed an ETL pipeline and real-time news visualization dashboard, achieving 85% classification accuracy.
 
 🛠 **Technical Skills**
-- **Programming**: Python (Pandas, NumPy, Matplotlib), SQL, DAX, VBA, NoSQL
-- **BI Tools**: Power BI, Tableau, Google Looker Studio, Google Analytics
-- **Cloud Platforms**: AWS, Azure (Data Factory, Synapse, Databricks)
-- **Core Competencies**: Data Modeling, Predictive Modeling, Data Visualization, Reporting, Data Governance
+- **AI & LLM Stack:** AWS Bedrock, RAG Pipelines, LangChain, LangGraph, Vector Databases (Milvus), Prompt Engineering
+- **Programming:** Python (Pandas, NumPy, FastAPI), SQL, NoSQL
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes
+- **BI & Analytics:** Power BI, Tableau, Google Looker Studio
+- **Core Competencies:** AI System Design, Data Modeling, Backend Development, LLM Integration, Scalable Deployment
 
 
 <p align="left">
