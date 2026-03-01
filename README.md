@@ -23,7 +23,6 @@ I am an Applied Generative AI Engineer with a strong foundation in Full Stack De
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="50" style="margin-right: 100px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="50" style="margin-right: 100px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40" style="margin-right: 50px;"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/tableau-icon.svg" alt="tableau" width="100" height="40" style="margin-right: 50px;"/>
